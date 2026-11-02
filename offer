@@ -1,0 +1,1 @@
+{"credential_issuer": "https://iamjosephmj.github.io", "credential_configuration_ids": ["pid"], "grants": {"authorization_code": {"authorization_server": "https://iamjosephmj.github.io"}}}
